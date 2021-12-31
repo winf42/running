@@ -10,10 +10,10 @@ module.exports = {
         name: 'Blog',
         url: 'https://winf42.github.io/running/404.html',
       },*/
-      {
+      /*{
         name: 'About',
         url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
-      },
+      },*/
     ],
   },
   plugins: [
