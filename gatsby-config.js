@@ -3,12 +3,12 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://winf42.github.io/running',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://imgtu.com/i/T5kSyQ',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://winf42.github.io',
+        url: 'https://winf42.github.io/running/404.html',
       },
       {
         name: 'About',
