@@ -24,8 +24,8 @@ env:
   TITLE: Wangfei Running
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Runs # also here
-  GITHUB_NAME: Wangfei42
-  GITHUB_EMAIL: winf@qq.com
+  GITHUB_NAME: Winf42
+  GITHUB_EMAIL: 249128127@qq.com
 
 jobs:
   sync:
