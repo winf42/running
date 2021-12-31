@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/`, // Change to `/running_page` when running on github pages
+  pathPrefix: `/running`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://winf42.github.io/running',
