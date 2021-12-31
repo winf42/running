@@ -11,13 +11,13 @@ const Header = () => {
         className="db flex justify-between w-100 ph5-l"
         style={{ marginTop: '3rem' }}
       >
-        <div className="dib w-25 v-mid">
+       /* <div className="dib w-25 v-mid">
           <Link to={siteUrl} className="link dim">
             //<picture>
               //<img className="dib w3 h3 br-100" alt="logo" src={logo} />
             //</picture>
           </Link>
-        </div>
+        </div>*/
         <div className="dib w-75 v-mid tr">
           {navLinks.map((n, i) => (
             <a
