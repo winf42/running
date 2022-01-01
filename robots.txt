@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://mp.weixin.qq.com/sitemap/sitemap-index.xml
-Host: mp.weixin.qq.com
+Sitemap: https://open.weixin.qq.com/qr/sitemap/sitemap-index.xml
+Host: https://open.weixin.qq.com
