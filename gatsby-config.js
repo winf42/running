@@ -2,13 +2,13 @@ module.exports = {
   pathPrefix: `/`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://winf42.github.io/running',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteUrl: 'http://mp.weixin.qq.com/profile?src=3&timestamp=1641010708&ver=1&signature=wIucE9E5u4cr1PGts6Wqmfgi-oA2l1foJMsylBT88fhI6AwiAT18LHXy-lEmz7gXn*3Dac7GV8VSagUldQWVpA==',
+    logo: './assets/winflogo.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'about',
-        url: 'https://winf42.github.io/running/404.html',
+        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
       },
       /*{
         name: 'About',
