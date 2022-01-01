@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `/`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'http://mp.weixin.qq.com/profile?src=3&timestamp=1641010708&ver=1&signature=wIucE9E5u4cr1PGts6Wqmfgi-oA2l1foJMsylBT88fhI6AwiAT18LHXy-lEmz7gXn*3Dac7GV8VSagUldQWVpA==',
+    siteUrl: 'https://open.weixin.qq.com/qr/code?username=winfTT',
     logo: 'https://s4.ax1x.com/2022/01/01/T5kSyQ.jpg',
     description: 'Personal site and blog',
     navLinks: [
