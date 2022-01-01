@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://winf42.github.io/sitemap/sitemap-index.xml
-Host: https://winf42.github.io
+Sitemap: http://mp.weixin.qq.com/sitemap/sitemap-index.xml
+Host: mp.weixin.qq.com
