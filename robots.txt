@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://winf42.github.io/running/sitemap/sitemap-index.xml
+Sitemap: https://winf42.github.io/sitemap/sitemap-index.xml
 Host: https://winf42.github.io
